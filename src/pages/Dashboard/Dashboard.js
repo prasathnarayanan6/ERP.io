@@ -18,7 +18,7 @@ const Dashboard = () => {
                 <div className="col col-md-4">
                         <div className="card shadow p-2 mb-5 bg-white rounded">
                             <ul className="list-styled"> {/* Add list-unstyled class */}
-                                <li className="mb-1 li"><a href="/" className="text-mod">Accounting ↗️ </a></li>
+                                <li className="mb-1 li"><a href="/" className="text-mod">Accounts ↗️ </a></li>
                                 <li className="mb-1 li"><a href="/" className="text-mod">Warehouse.Management ↗️</a></li>
                                 <li className="mb-1 li"><a href="/" className="text-mod">CRM ↗️</a></li>
                                 <li className="li"><a href="/" className="text-mod">Sales ↗️</a></li>

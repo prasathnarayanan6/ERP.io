@@ -1,0 +1,15 @@
+* > * {
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif, cursive;
+    margin: 0;
+    color: rgb(51, 46, 71);
+}
+.left 
+{
+    align-items: flex-end;
+    text-align: left;
+    font-size: larger;
+}
+.right{
+    text-align: right;
+}
