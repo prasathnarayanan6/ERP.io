@@ -1,0 +1,56 @@
+* > * {
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif, cursive;
+    margin: 0;
+}
+.borderRad
+{
+    border: 1px solid;
+}
+/* dashboard.css */
+
+/* Style the panel container */
+.panel {
+    border: 1px solid #e0e0e0; /* Add a border */
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px; /* Add rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a shadow for a card-like effect */
+    background-color: #fff; /* Set the background color */
+}
+
+/* Style the panel content */
+.panel-content {
+    font-size: 16px;
+    text-align: center;
+}
+
+/* Style the "Key executives" panel differently if needed */
+.panel:first-child {
+    background-color: #007bff; /* Change the background color for the first panel */
+    color: #fff; /* Change the text color for the first panel */
+    border: 1px solid #0056b3; /* Adjust border color for the first panel */
+}
+.text-small
+{
+    font-size: small;
+    text-decoration: none;
+    color: dimgray;
+}
+.text-mod
+{
+    text-decoration: none;
+    color: dimgray;
+}
+
+.li 
+{
+    text-align:left;
+    align-items: end;
+    color: purple;
+}
+.li:hover
+{
+    scale: 1.1;
+
+}

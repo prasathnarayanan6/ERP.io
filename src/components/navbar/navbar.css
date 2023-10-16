@@ -1,0 +1,18 @@
+* > * {
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif, cursive;
+    margin: 0;
+    color: rgb(51, 46, 71);
+}
+.navbb{
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.navbar {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+  
+  /* Optional: Adjust the padding for Nav links to control the gap between elements */
+  .navbar-nav .nav-link {
+    padding: 0.5rem 1rem;
+  }
